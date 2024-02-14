@@ -24,7 +24,19 @@ Our system can also help to improve the reliability of street light systems by q
 
 ![sih3](https://github.com/avionicharshit-byte/smartLighting/assets/78672319/2de6fc6a-18b7-4745-9a83-a04391f8d499)
 
-**Winning the Smart India Hackathon College Round**
+![IMG-20231101-WA0017](https://github.com/avionicharshit-byte/smartLighting/assets/78672319/9297d1bc-20b4-4634-b5fa-1f26803173fc)
+
+![IMG-20231101-WA0016](https://github.com/avionicharshit-byte/smartLighting/assets/78672319/71e1e934-473c-4fd7-8bd2-e000557957d3)
+
+![IMG-20231101-WA0018](https://github.com/avionicharshit-byte/smartLighting/assets/78672319/5a9d9275-0849-4cec-8f67-99491b19e29b)
+
+![IMG-20231101-WA0012](https://github.com/avionicharshit-byte/smartLighting/assets/78672319/e1e3dfe5-12f5-497d-9869-4db6e95e6c52)
+
+![IMG-20231101-WA0015](https://github.com/avionicharshit-byte/smartLighting/assets/78672319/7f2c5557-fe25-4dd3-b1de-664497b2df9c)
+
+![IMG-20231101-WA0013](https://github.com/avionicharshit-byte/smartLighting/assets/78672319/b1a05796-1560-473b-9a35-c073b66caa9f)
+
+
 
 We are proud to announce that our smart street light system won the Smart India Hackathon college round. This hackathon was organized by the Government of India to challenge students to develop innovative solutions to real-world problems. Our system was selected as the winner in the category of "Smart Cities and Infrastructure."
 
